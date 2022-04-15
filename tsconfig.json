@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "outDir": "build",
+    "sourceMap": true,
+    "esModuleInterop": true
+    // "typeRoots": ["node_modules/@types"]
+    // "outFile": "server.js"
+  },
+  //   "exclude": ["node_modules"],
+  "compileOnSave": true
+}
